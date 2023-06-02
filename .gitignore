@@ -1,0 +1,5 @@
+/target
+.idea/
+pressure_recorder.iml
+/data.xlsx
+/plot.png
